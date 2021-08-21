@@ -1,0 +1,10 @@
+stack ------- concept
+
+
+Q1 - What do you mean by Data Structure and Algorithm?  
+Q2 - What about linear and non linear data Structure?
+Q3 - What do you mean by satck?
+Q4 - Write Program of stack using array?
+Q5 - What is the different constraint of top?
+Q6 - different situation on underflow and overflow in stack?
+Q7 - Array vs Linklist ?

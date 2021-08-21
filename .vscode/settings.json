@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "xiosbase": "cpp",
+        "limits": "cpp",
+        "stdio.h": "c"
+    }
+}

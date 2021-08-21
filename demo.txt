@@ -1,0 +1,1 @@
+In the C++ programming language, seekg is a function in the iostream library (part of the standard library) that allows you to seek to an arbitrary position in a file.

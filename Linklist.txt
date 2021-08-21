@@ -1,0 +1,5 @@
+Q1 - What is the linkedlist?
+Q2 - What is the node?
+Q3 - What is the role of start and null in linkedlist?
+Q4 - How to create node single and double linkedlist?
+Q5 - Array vs linkedlist
